@@ -1,3 +1,4 @@
+Ссылка на Cplab: https://colab.research.google.com/drive/15KQcFqxMk9fWsqeTG4n5I7lQMYy7VCWz?usp=sharing#scrollTo=QjuXwRt56xuH
 
 Тема: Оптимизация YOLO для детекции объектов на мобильных устройствах
 
